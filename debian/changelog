@@ -1,0 +1,6 @@
+bats (0.4.0-1ev3dev1) stable; urgency=low
+
+  * Initial release for ev3dev                  
+
+ -- Ralph Hempel <rhempel@hempeldesigngroup.com>  Sat, 07 Jun 2015 19:43:57 -0400
+
